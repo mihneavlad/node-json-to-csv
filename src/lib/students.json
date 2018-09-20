@@ -103,13 +103,5 @@
     "age": "35",
     "place_of_birth": "Bucharest",
     "color": "#87CEEB"
-  },
-  {
-    "first_name": "Alin",
-    "last_name": "Sodolescu",
-    "age": "35",
-    "place_of_birth": "Alba Iulia",
-    "color": "#ff00ff"
   }
-
 ]
